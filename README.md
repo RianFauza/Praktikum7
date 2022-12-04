@@ -40,3 +40,10 @@ return "".join(set(s))
 ![code2](https://user-images.githubusercontent.com/115771479/205495306-1003024c-b6c8-4c60-b307-e3c494b9e604.png)
 ![code3](https://user-images.githubusercontent.com/115771479/205495691-8d270a40-3015-4031-9310-f5d35dbf5939.png)
 
+
+# Flowcart
+
+
+![image](https://user-images.githubusercontent.com/115771479/205496200-d9889335-43fb-4c82-9e80-90d149a7499e.png)
+
+
